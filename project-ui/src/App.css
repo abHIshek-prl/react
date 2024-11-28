@@ -1,0 +1,23 @@
+/* *{
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  margin-top: 50px;
+}
+#btn{
+  height: 50px;
+  width: 150px;
+  background-color: red;
+  border: 0;
+  color: white;
+  font-size: x-large;
+  font-weight: bold;
+  gap: 5px;
+}
+#cuntr{
+  color: rgb(0, 0, 0);
+  font-weight: bolder;
+  font-size: xx-large;
+  background-color: transparent;
+  color: red;
+} */
